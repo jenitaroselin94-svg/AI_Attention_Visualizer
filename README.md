@@ -26,10 +26,6 @@ Attention Visualization
 ↓
 Highest Attention Word
 
-
-## Live Demo
-https://aiattentionvisualizer-56cdwxk3pbvk6m598hhupd.streamlit.app/
-
 ## Features
 
 - Upload JPG, JPEG, and PNG study-note images
@@ -161,6 +157,17 @@ The application displays:
 - Word attention scores
 - Progress bars for each selected word
 - Highest calculated attention word
+
+
+## Live Demo
+https://aiattentionvisualizer-56cdwxk3pbvk6m598hhupd.streamlit.app/
+<img width="1351" height="661" alt="Screenshot 2026-10-01 101037" src="https://github.com/user-attachments/assets/54597bf2-d5d4-4aba-ac8a-5904917ff994" />
+<img width="743" height="871" alt="Screenshot 2026-10-01 102104" src="https://github.com/user-attachments/assets/b88c7be3-b289-4885-b3a6-22558264ff32" />
+<img width="945" height="830" alt="Screenshot 2026-10-01 102359" src="https://github.com/user-attachments/assets/9c129bf6-e33c-4986-8a46-ae026e02cc9f" />
+<img width="1132" height="837" alt="Screenshot 2026-10-01 102258" src="https://github.com/user-attachments/assets/d859c6cf-731d-4825-830c-fd82c56d08f3" />
+<img width="971" height="875" alt="Screenshot 2026-10-01 102550" src="https://github.com/user-attachments/assets/f4eee480-83e5-4849-a313-531370da6a3b" />
+
+
 
 ## Limitations
 
